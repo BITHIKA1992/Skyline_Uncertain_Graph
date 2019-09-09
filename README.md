@@ -1,6 +1,7 @@
 # Skyline_Uncertain_Graph
 
 DySky: Dynamic Skyline Queries on Uncertain Graphs
+
 Given a graph, and a set of query vertices (subset of the vertices), the dynamic skyline query problem returns a subset of data vertices
 (other than query vertices) which are not dominated by other data vertices based on certain distance measure. In this paper, we study the dynamic skyline query problem on uncertain graphs (DySky).
 The input to this problem is an uncertain graph, a subset of its nodes as query vertices, and the goal here is to return all the data
