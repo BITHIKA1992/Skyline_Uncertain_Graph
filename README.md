@@ -15,7 +15,7 @@ The query is generated from size 2, 3, 5, 8, 10, with different query selection 
 (iii) High clustering coefficient (CLUST)
 
 Execution commend is as follows:
-python skyline_uncertain_graph.py <dataset-name> <Distance-type> <query-size> <No of runs> <Query-selection-strategy> 
+python skyline_uncertain_graph.py '<dataset-name> <Distance-type> <query-size> <No of runs> <Query-selection-strategy>' 
 
 e.g. 
 python skyline_uncertain_graph.py test_data ED 5 1 CLUST 
