@@ -10,11 +10,15 @@ Pruning, Distance Computation, and Skyline Vertex Set Generation.
 
 Here, we have used 2 distance measures Expected Distance and Majority Distance.
 The query is generated from size 2, 3, 5, 8, 10, with different query selection straties. 
+
 (i) Random Query selection (RAND)
+
 (ii) High degree node as query (HDEG)
+
 (iii) High clustering coefficient (CLUST)
 
 Execution commend is as follows:
+
 python skyline_uncertain_graph.py 'dataset-name' 'Distance-type' 'query-size' 'No of runs' 'Query-selection-strategy' 
 
 
