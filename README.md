@@ -37,5 +37,5 @@ Dependecy package for BNL (Block nested loop) is pypref https://github.com/patri
 
 Please do cite the following paper incase you are using this code.
 
-Suman Banerjee, Bithika Pal, Akshit Bhalla, and Mamata Jenamani. 
-DySky: Dynamic Skyline Queries on Uncertain Graphs. ACM Joint International Conference, 9 pages. https://doi.org/xxxx
+Suman Banerjee, Bithika Pal. 
+DySky: Dynamic Skyline Queries on Uncertain Graphs.  https://doi.org/xxxx
